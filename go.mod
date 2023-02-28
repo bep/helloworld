@@ -1,6 +1,6 @@
-module github.com/bep/gomaintemplate
+module github.com/bep/helloworld
 
-go 1.17
+go 1.19
 
 require github.com/frankban/quicktest v1.14.2
 
